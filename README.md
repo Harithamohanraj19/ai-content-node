@@ -31,10 +31,9 @@ Clone the repository
 
 Install dependencies
 
-`npm install` with react, express, axios, and dotenv
+`npm install` with react, express, axios, dotenv and @google/generative-ai for Gemini
 
 Create an inside API key in the .env file
-
 `GEMINI_API_KEY=your_gemini_api_key_here`
 
 **Contributing**
